@@ -43,7 +43,7 @@
         android:layout_marginTop="19dp"
         android:layout_marginBottom="215dp"
         android:ems="10"
-        android:hint="Contrseña"
+        android:hint="Contrseñas"
         android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
