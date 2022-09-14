@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Calculadora_2</string>
     <string name="Natsu">Natsu</string>
-    <string name="textPersonName">Ingrese su Nombre</string>
+    <string name="text">Ingrese su Nombre</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Usuario">Usuario</string>
 </resources>
